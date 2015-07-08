@@ -1,0 +1,17 @@
+{
+    "name": "kubica/com_people",
+    "type": "joomlatools-installer",
+    "description": "People Front & Back",
+    "keywords": ["joomla", "nooku", "categories"],
+    "homepage": "https://github.com/kedweber/com_people",
+    "authors": [
+        {
+            "name": "Dave Li",
+            "email": "info@kubica.nl",
+            "homepage": "http://www.kubica.nl"
+        }
+    ],
+    "require": {
+        "joomlatools/installer": "*"
+    }
+}
